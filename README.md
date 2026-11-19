@@ -28,3 +28,8 @@ The browser uses only the Supabase publishable key. Never put a service-role or 
 The catalog supports a screenshot_url field. Until permitted screenshots are added, cards use CSS-generated artwork. Only add screenshots you own or have permission to use.
 
 This is an independent fan project and is not affiliated with RobTop Games.
+
+
+## Owner account
+
+See [OWNER_SETUP.md](./OWNER_SETUP.md) to securely grant the Owner role to your app account. The role is stored in the database and cannot be enabled from the browser.
